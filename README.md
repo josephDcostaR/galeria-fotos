@@ -61,10 +61,6 @@ src/
 │   ├── PhotoCard.jsx      # Componente para exibição de fotos
 │   ├── SearchBar.jsx      # Barra de busca
 │   └── Footer.jsx         # Rodapé
-├── pages/                 # Páginas principais
-│   └── Gallery.jsx        # Página principal da galeria
-├── styles/                # Arquivos CSS
-│   └── index.css          # Estilização global
 ├── App.jsx                # Componente raiz
 ├── main.jsx               # Ponto de entrada da aplicação
 └── vite.config.js         # Configuração do Vite
@@ -85,8 +81,7 @@ src/
 ## Personalização
 
 - **Alterar o Conjunto de Fotos**:
-  - As fotos são carregadas de uma API ou arquivo estático.
-  - Substitua os dados no componente `Gallery.jsx` para usar suas próprias imagens.
+  - As fotos são carregadas de uma API (The Cat API).
 
 ## Contribuindo
 
