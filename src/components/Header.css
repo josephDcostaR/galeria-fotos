@@ -1,0 +1,13 @@
+/* Header.css */
+header {
+    background-color: #3b82f6; /* Cor de fundo azul */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  

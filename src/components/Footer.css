@@ -1,0 +1,19 @@
+/* Footer.css */
+footer {
+    background-color: #1f2937; /* Cor de fundo suave */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #4b8df8;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
